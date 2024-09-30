@@ -1,0 +1,15 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.exe.config
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\bin\Debug\SistemaBancario.pdb
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.csproj.AssemblyReference.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.csproj.CoreCompileInputs.cache
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.exe
+D:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaBancario_Dev\SistemaBancario\obj\Debug\SistemaBancario.pdb
